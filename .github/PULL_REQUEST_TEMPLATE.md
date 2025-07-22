@@ -34,3 +34,4 @@
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have tested on multiple devices or browsers
+- [ ] This feature is accessible according to the Web Content Accessibility Guidelines (WCAG)
