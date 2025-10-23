@@ -1,7 +1,3 @@
-## Description
-
-<!-- Provide a brief summary of the changes made in this PR -->
-
 ## What has been done?
 
 <!-- Describe in detail the changes/features you've implemented -->
